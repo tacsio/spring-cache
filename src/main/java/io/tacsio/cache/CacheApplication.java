@@ -1,7 +1,7 @@
 package io.tacsio.cache;
 
-import io.tacsio.cache.app.Author;
-import io.tacsio.cache.app.Book;
+import io.tacsio.cache.app.model.Author;
+import io.tacsio.cache.app.model.Book;
 import io.tacsio.cache.app.BookRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
